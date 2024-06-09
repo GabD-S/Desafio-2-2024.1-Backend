@@ -1,11 +1,4 @@
 # Desafio 1 - Base de dados do DETRAN
-
-Este desafio tem como objetivo exercitar os conceitos de modelagem de dados e de banco de dados relacionais.
-
-Caso surjam dúvidas, você pode utilizar o canal da capacitação no slack, contatar algum membro ou conversar com seu squad.
-
-Você deve realizar um fork deste repositório para sua conta pessoal no GitHub. A entrega só será considerada válida se estiver incluída em uma release no GitHub. Se o candidato não souber como realizar um Fork, Commit, Push e uma Release no GitHub, deverá pesquisar ou pedir ajuda. O desafio também avaliará sua independência.
-
 ## Enunciado
 
 O DETRAN deseja estabelecer um banco de dados para monitorar as infrações ocorridas no estado.
